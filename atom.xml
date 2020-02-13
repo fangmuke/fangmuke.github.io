@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fangmuke.cn</id>
     <title>房木可</title>
-    <updated>2019-12-02T07:00:37.495Z</updated>
+    <updated>2020-02-13T09:31:56.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fangmuke.cn"/>
     <link rel="self" href="https://fangmuke.cn/atom.xml"/>
     <subtitle>房木可的Blog</subtitle>
     <logo>https://fangmuke.cn/images/avatar.png</logo>
     <icon>https://fangmuke.cn/favicon.ico</icon>
-    <rights>All rights reserved 2019, 房木可</rights>
+    <rights>All rights reserved 2020, 房木可</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://fangmuke.cn/post/hello-gridea</id>
