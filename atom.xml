@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fangmuke.cn</id>
+    <id>https://www.fangmuke.cn</id>
     <title>房木可</title>
-    <updated>2020-02-21T16:32:38.020Z</updated>
+    <updated>2020-02-21T17:39:43.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fangmuke.cn"/>
-    <link rel="self" href="https://fangmuke.cn/atom.xml"/>
-    <subtitle>房木可的Blog</subtitle>
-    <logo>https://fangmuke.cn/images/avatar.png</logo>
-    <icon>https://fangmuke.cn/favicon.ico</icon>
+    <link rel="alternate" href="https://www.fangmuke.cn"/>
+    <link rel="self" href="https://www.fangmuke.cn/atom.xml"/>
+    <logo>https://www.fangmuke.cn/images/avatar.png</logo>
+    <icon>https://www.fangmuke.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 房木可</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://fangmuke.cn/post/hello-gridea/</id>
-        <link href="https://fangmuke.cn/post/hello-gridea/">
+        <id>https://www.fangmuke.cn/post/hello-gridea/</id>
+        <link href="https://www.fangmuke.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
